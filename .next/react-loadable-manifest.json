@@ -1,0 +1,8 @@
+{
+  "app/page.tsx -> ../components/CardCollectionInput": {
+    "id": "app/page.tsx -> ../components/CardCollectionInput",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_CardCollectionInput_tsx.js"
+    ]
+  }
+}
